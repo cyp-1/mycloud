@@ -9,6 +9,7 @@ import org.springframework.web.client.RestTemplate;
  * @author cyp
  * @create 2021-12-29 11:17
  */
+//hot-fix
 //新增加的注释
 @Configuration
 public class ApplicationContextConfig {
