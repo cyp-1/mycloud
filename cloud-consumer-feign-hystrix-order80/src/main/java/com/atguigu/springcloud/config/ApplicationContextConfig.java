@@ -11,6 +11,7 @@ import org.springframework.web.client.RestTemplate;
  */
 //hot-fix
 //新增加的注释
+//master-hot
 @Configuration
 public class ApplicationContextConfig {
     @Bean
